@@ -414,219 +414,219 @@
   "dataRoutes": [
     {
       "page": "/",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/index\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/index\\.json$"
     },
     {
       "page": "/about-us",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/about-us\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/about-us\\.json$"
     },
     {
       "page": "/all-brands",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/all-brands\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/all-brands\\.json$"
     },
     {
       "page": "/all-stores",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/all-stores\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/all-stores\\.json$"
     },
     {
       "page": "/app-redirect",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/app-redirect\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/app-redirect\\.json$"
     },
     {
       "page": "/bogo-list",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/bogo-list\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/bogo-list\\.json$"
     },
     {
       "page": "/bogo-list/[id]",
       "routeKeys": {
         "nxtPid": "nxtPid"
       },
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/bogo\\-list/([^/]+?)\\.json$",
-      "namedDataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/bogo\\-list/(?<nxtPid>[^/]+?)\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/bogo\\-list/([^/]+?)\\.json$",
+      "namedDataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/bogo\\-list/(?<nxtPid>[^/]+?)\\.json$"
     },
     {
       "page": "/campaigns",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/campaigns\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/campaigns\\.json$"
     },
     {
       "page": "/campaigns/[id]",
       "routeKeys": {
         "nxtPid": "nxtPid"
       },
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/campaigns/([^/]+?)\\.json$",
-      "namedDataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/campaigns/(?<nxtPid>[^/]+?)\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/campaigns/([^/]+?)\\.json$",
+      "namedDataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/campaigns/(?<nxtPid>[^/]+?)\\.json$"
     },
     {
       "page": "/cancellation-policy",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/cancellation-policy\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/cancellation-policy\\.json$"
     },
     {
       "page": "/deliveryman-registration",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/deliveryman-registration\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/deliveryman-registration\\.json$"
     },
     {
       "page": "/flash-sales",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/flash-sales\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/flash-sales\\.json$"
     },
     {
       "page": "/help-and-support",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/help-and-support\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/help-and-support\\.json$"
     },
     {
       "page": "/home",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/home\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/home\\.json$"
     },
     {
       "page": "/home/category/[slug]",
       "routeKeys": {
         "nxtPslug": "nxtPslug"
       },
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/home/category/([^/]+?)\\.json$",
-      "namedDataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/home/category/(?<nxtPslug>[^/]+?)\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/home/category/([^/]+?)\\.json$",
+      "namedDataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/home/category/(?<nxtPslug>[^/]+?)\\.json$"
     },
     {
       "page": "/home/wishlist",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/home/wishlist\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/home/wishlist\\.json$"
     },
     {
       "page": "/home/[...slug]",
       "routeKeys": {
         "nxtPslug": "nxtPslug"
       },
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/home/(.+?)\\.json$",
-      "namedDataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/home/(?<nxtPslug>.+?)\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/home/(.+?)\\.json$",
+      "namedDataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/home/(?<nxtPslug>.+?)\\.json$"
     },
     {
       "page": "/interest",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/interest\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/interest\\.json$"
     },
     {
       "page": "/maintainance",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/maintainance\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/maintainance\\.json$"
     },
     {
       "page": "/privacy-policy",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/privacy-policy\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/privacy-policy\\.json$"
     },
     {
       "page": "/product/[id]",
       "routeKeys": {
         "nxtPid": "nxtPid"
       },
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/product/([^/]+?)\\.json$",
-      "namedDataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/product/(?<nxtPid>[^/]+?)\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/product/([^/]+?)\\.json$",
+      "namedDataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/product/(?<nxtPid>[^/]+?)\\.json$"
     },
     {
       "page": "/rate-and-review/[id]",
       "routeKeys": {
         "nxtPid": "nxtPid"
       },
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/rate\\-and\\-review/([^/]+?)\\.json$",
-      "namedDataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/rate\\-and\\-review/(?<nxtPid>[^/]+?)\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/rate\\-and\\-review/([^/]+?)\\.json$",
+      "namedDataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/rate\\-and\\-review/(?<nxtPid>[^/]+?)\\.json$"
     },
     {
       "page": "/refund-policy",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/refund-policy\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/refund-policy\\.json$"
     },
     {
       "page": "/rental/provider/latest",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/rental/provider/latest\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/rental/provider/latest\\.json$"
     },
     {
       "page": "/rental/provider/popular",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/rental/provider/popular\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/rental/provider/popular\\.json$"
     },
     {
       "page": "/rental/provider/[id]",
       "routeKeys": {
         "nxtPid": "nxtPid"
       },
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/rental/provider/([^/]+?)\\.json$",
-      "namedDataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/rental/provider/(?<nxtPid>[^/]+?)\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/rental/provider/([^/]+?)\\.json$",
+      "namedDataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/rental/provider/(?<nxtPid>[^/]+?)\\.json$"
     },
     {
       "page": "/rental/vehicle/[id]",
       "routeKeys": {
         "nxtPid": "nxtPid"
       },
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/rental/vehicle/([^/]+?)\\.json$",
-      "namedDataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/rental/vehicle/(?<nxtPid>[^/]+?)\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/rental/vehicle/([^/]+?)\\.json$",
+      "namedDataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/rental/vehicle/(?<nxtPid>[^/]+?)\\.json$"
     },
     {
       "page": "/rental/vehicle-search",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/rental/vehicle-search\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/rental/vehicle-search\\.json$"
     },
     {
       "page": "/search",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/search\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/search\\.json$"
     },
     {
       "page": "/service/all-providers",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/service/all-providers\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/service/all-providers\\.json$"
     },
     {
       "page": "/service/provider/[id]",
       "routeKeys": {
         "nxtPid": "nxtPid"
       },
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/service/provider/([^/]+?)\\.json$",
-      "namedDataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/service/provider/(?<nxtPid>[^/]+?)\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/service/provider/([^/]+?)\\.json$",
+      "namedDataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/service/provider/(?<nxtPid>[^/]+?)\\.json$"
     },
     {
       "page": "/service/service-details/[id]",
       "routeKeys": {
         "nxtPid": "nxtPid"
       },
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/service/service\\-details/([^/]+?)\\.json$",
-      "namedDataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/service/service\\-details/(?<nxtPid>[^/]+?)\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/service/service\\-details/([^/]+?)\\.json$",
+      "namedDataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/service/service\\-details/(?<nxtPid>[^/]+?)\\.json$"
     },
     {
       "page": "/shipping-policy",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/shipping-policy\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/shipping-policy\\.json$"
     },
     {
       "page": "/store",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/store\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/store\\.json$"
     },
     {
       "page": "/store/new",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/store/new\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/store/new\\.json$"
     },
     {
       "page": "/store/popular",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/store/popular\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/store/popular\\.json$"
     },
     {
       "page": "/store/top-offer-nearby",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/store/top-offer-nearby\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/store/top-offer-nearby\\.json$"
     },
     {
       "page": "/store/[id]",
       "routeKeys": {
         "nxtPid": "nxtPid"
       },
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/store/([^/]+?)\\.json$",
-      "namedDataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/store/(?<nxtPid>[^/]+?)\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/store/([^/]+?)\\.json$",
+      "namedDataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/store/(?<nxtPid>[^/]+?)\\.json$"
     },
     {
       "page": "/store-registration",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/store-registration\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/store-registration\\.json$"
     },
     {
       "page": "/terms-and-conditions",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/terms-and-conditions\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/terms-and-conditions\\.json$"
     },
     {
       "page": "/track-order",
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/track-order\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/track-order\\.json$"
     },
     {
       "page": "/track-order/[id]",
       "routeKeys": {
         "nxtPid": "nxtPid"
       },
-      "dataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/track\\-order/([^/]+?)\\.json$",
-      "namedDataRouteRegex": "^/_next/data/OIA3A2Du7s13ofOSbMl0N/track\\-order/(?<nxtPid>[^/]+?)\\.json$"
+      "dataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/track\\-order/([^/]+?)\\.json$",
+      "namedDataRouteRegex": "^/_next/data/fxMefVBjU4N3OQ9JYoj0T/track\\-order/(?<nxtPid>[^/]+?)\\.json$"
     }
   ],
   "rsc": {
